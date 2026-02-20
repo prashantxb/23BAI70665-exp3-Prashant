@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Experiment 3 – React Router Multi Page Website
 
 ## 📌 Aim
@@ -46,3 +47,6 @@ Deployed using Vercel
 
 ### Contact Page
 ![Contact](public/screenshots/contact.png)
+=======
+# 23BAI70665-exp3-Prashant
+
